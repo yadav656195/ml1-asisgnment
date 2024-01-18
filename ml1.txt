@@ -1,0 +1,65 @@
+ Q1: Explain the following with an example:
+Ans- Artificial intelligence-Artificial Intelligence is the concept of creating smart intelligent machines
+Machine Learning-Machine learning is AI that can automatically adapt with minimal            human interference.  
+Deep learning-it is a subset of machine learning that uses artificial neural networks to mimic the learning process of human brain.
+
+Q2.What is supervised learning? Give some example of supervised learning.
+Ans-it is type of machine learning where model is trained on labeled dataset.
+ I.e- face recognition,speech recognition etc.
+
+Q3:  What is unsupervised learning? List some examples of unsupervised learning.
+Ans-It is a type of machine learning where algorithm is trained on unlabeled data.System tries to learn pattern and relationships.I.e. Market basket,identifying accident prone areas.
+Q4- What is the difference between AI, ML, DL, and DS?
+Ans-Artificial Intelligence (AI) is a broad field focused on creating machines that can perform tasks requiring human intelligence. Machine Learning (ML) is a subset of AI, enabling systems to learn patterns from data and make decisions without explicit programming. Deep Learning (DL) is a specialized form of ML that involves neural networks with multiple layers, mimicking the human brain's structure. Data Science (DS) combines AI, ML, and statistical techniques to extract insights and knowledge from data, aiding in decision-making. While AI is the overarching concept, ML and DL are specific approaches, and DS is the interdisciplinary practice of deriving insights from data.
+
+Q5: Main Differences between Supervised, Unsupervised, and Semi-Supervised Learning:
+
+Supervised Learning: Involves training a model on a labeled dataset, where the algorithm learns to map input data to corresponding output labels. The goal is to make predictions on new, unseen data.
+
+Unsupervised Learning: Involves working with unlabeled data to discover inherent patterns, relationships, or structures. Common tasks include clustering and dimensionality reduction.
+
+Semi-Supervised Learning: Utilizes a combination of labeled and unlabeled data for training. It combines aspects of both supervised and unsupervised learning, often benefiting from the additional unlabeled data to improve model performance.
+
+Q6: Train, Test, and Validation Split:
+
+Train Set: The portion of the dataset used to train the machine learning model. The model learns from this data and adjusts its parameters to make predictions.
+
+Test Set: A separate portion of the dataset that is not used during training. It is used to assess the model's performance on unseen data, helping to evaluate its generalization ability.
+
+Validation Set: An additional subset used during the training phase to fine-tune model hyperparameters. It aids in preventing overfitting by providing an independent dataset for tuning without contaminating the test set.
+Importance:
+
+Train Set: Essential for the model to learn patterns and relationships within the data.
+
+Validation Set: Crucial for hyperparameter tuning to improve the model's generalization on new data.
+
+Test Set: Critical for evaluating the model's performance and assessing how well it generalizes to new, unseen data.
+
+Q7: Unsupervised Learning in Anomaly Detection:
+
+Unsupervised learning algorithms, such as clustering and density estimation, can be used for anomaly detection.
+
+Anomalies are identified as instances that deviate significantly from the normal patterns in the data.
+
+The algorithm learns the normal behavior during training and can flag instances that do not conform to these learned patterns as potential anomalies.
+
+Q8: Commonly Used Supervised and Unsupervised Learning Algorithms:
+
+Supervised Learning Algorithms:
+
+Linear Regression
+Decision Trees
+Random Forest
+Support Vector Machines (SVM)
+k-Nearest Neighbors (k-NN)
+Neural Networks
+Unsupervised Learning Algorithms:
+
+K-Means Clustering
+Hierarchical Clustering
+Principal Component Analysis (PCA)
+t-Distributed Stochastic Neighbor Embedding (t-SNE)
+Apriori Algorithm (for association rule learning)
+Isolation Forest (for anomaly detection)
+
+
